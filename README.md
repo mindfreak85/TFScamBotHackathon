@@ -12,7 +12,7 @@
 
 1. Long Short Term Memory Model (LSTM) - special kind of recurrent neural network  capable of learning long term dependencies in data.
 
-## DataSet Used 
+## Dataset Used 
 
 1. SMS Spam Collection Dataset <https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code>
 
