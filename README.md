@@ -12,8 +12,8 @@
 - Yong Chang Xin 
 - Tan Wei Shan
 - Howard Jek 
-- Mohamed Umar
-- Eiffel Yuen
+- Mohamed Umar  @mdumar99
+- Eiffel Yuen   @mindfreak85
 
 ## Models Used
 
