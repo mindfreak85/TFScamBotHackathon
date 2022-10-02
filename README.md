@@ -12,6 +12,10 @@
 
 1. Long Short Term Memory Model (LSTM) - special kind of recurrent neural network  capable of learning long term dependencies in data.
 
+## DataSet Used 
+
+1. SMS Spam Collection Dataset <https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code>
+
 ## How to Use?
 
 1. Create a virtual environment and install the dependecies in the requirements.txt file. 
@@ -31,4 +35,5 @@
 
 - <https://chatbotslife.com/deploying-a-machine-learning-model-as-a-chatbot-part-1-d5dc9e8fa4ba>
 - <https://chatbotslife.com/deploying-a-machine-learning-model-as-a-chatbot-part-2-20038a9b39ef>
+- <https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code>
 - <https://towardsdatascience.com/sentiment-analysis-using-lstm-and-glove-embeddings-99223a87fe8e>
