@@ -15,10 +15,9 @@
 - Mohamed Umar  @mdumar99
 - Eiffel Yuen   @mindfreak85
 
-## Models Used
+## Model Used
 
-1. 
-2. 
+1. Long Short Term Memory Model (LSTM) - special kind of recurrent neural network  capable of learning long term dependencies in data.
 
 
 ## How to Use?
@@ -28,6 +27,8 @@
 3. Expose local port 5000 to the internet by running ngrok http 5000 in another command prompt window.
 4. Once flask app is alive, copy the url link into DialogFlow webhook to connect bot to the backend. In the webhook url, input "URL/webhook" with a webhook at the back
 5. The telegram bot is ready to go
+
+## How does it work?
 
 ## References
 
