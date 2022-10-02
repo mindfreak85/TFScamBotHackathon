@@ -31,4 +31,4 @@
 
 - <https://chatbotslife.com/deploying-a-machine-learning-model-as-a-chatbot-part-1-d5dc9e8fa4ba>
 - <https://chatbotslife.com/deploying-a-machine-learning-model-as-a-chatbot-part-2-20038a9b39ef>
-- <>
+- <https://towardsdatascience.com/sentiment-analysis-using-lstm-and-glove-embeddings-99223a87fe8e>
