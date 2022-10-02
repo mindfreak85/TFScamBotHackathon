@@ -8,13 +8,6 @@
   We used a telegram bot as telegram is growing among users and it is easy to use and implement in group chats etc. 
   For future development, we hope to be able to utilize this telegram bot to always be on 24/7 in a groupchat to determine if a particular user is sending scam    messages.
 
-## Contributers
-- Yong Chang Xin 
-- Tan Wei Shan
-- Howard Jek 
-- Mohamed Umar  @mdumar99
-- Eiffel Yuen   @mindfreak85
-
 ## Model Used
 
 1. Long Short Term Memory Model (LSTM) - special kind of recurrent neural network  capable of learning long term dependencies in data.
@@ -26,6 +19,13 @@
 3. Expose local port 5000 to the internet by running ngrok http 5000 in another command prompt window.
 4. Once flask app is alive, copy the url link into DialogFlow webhook to connect bot to the backend. In the webhook url, input "URL/webhook" with a webhook at the back
 5. The telegram bot is ready to go
+
+## Contributers
+- Yong Chang Xin 
+- Tan Wei Shan
+- Howard Jek 
+- Mohamed Umar  @mdumar99
+- Eiffel Yuen   @mindfreak85
 
 ## References
 
