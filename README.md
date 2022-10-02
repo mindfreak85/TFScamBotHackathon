@@ -4,7 +4,7 @@
   This is a Hack for Deep Learning week 2022
   
   This telegram bot utilizes an AI model to try and detect scam messages to prevent users from falling victim to scams.
-  The telegram bot as for now only accepts 1 message input from the user and it will return either a "Yes it is a scam" or "No it is not a scam".
+  The telegram bot as of now only accepts 1 message input from the user and it will return either a "Yes it is a scam" or "No it is not a scam".
   We used a telegram bot as telegram is growing among users and it is easy to use and implement in group chats etc. 
   For future development, we hope to be able to utilize this telegram bot to always be on 24/7 in a groupchat to determine if a particular user is sending scam    messages.
 
