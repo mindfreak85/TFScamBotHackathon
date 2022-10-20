@@ -25,7 +25,7 @@
 5. The telegram bot is ready to go
 
 ## Contributers
-- Yong Chang Xin 
+- Yong Chang Xin @changxinn
 - Tan Wei Shan
 - Howard Jek 
 - Mohamed Umar  @mdumar99
